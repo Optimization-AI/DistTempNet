@@ -196,10 +196,10 @@ python evaluate.py \
 
 #### ImageNet Variants: Measuring robustness using ImageNet-1k and six of its distribution-shifted variants 
 
-![Screenshot 2025-04-20 at 9 37 18 AM](https://github.com/user-attachments/assets/36e0f3ae-01f2-497c-8ef5-b28abcf692bc) <br />
+![Demo Image](Images/ImageNet.png) <br />
 
 #### Retrievals: Measuring the model's ability to perform image-text retrieval tasks like Flickr30k, MSCOCO, and WinoGAViL
 
-![Screenshot 2025-04-20 at 9 37 08 AM](https://github.com/user-attachments/assets/5cd33b4c-78d2-4ba1-b119-6fe1f71b1366)
+![Demo Image](Images/Retrievals.png)
 
 
