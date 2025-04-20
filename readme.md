@@ -200,6 +200,6 @@ python evaluate.py \
 
 #### Retrievals: Measuring the model's ability to perform image-text retrieval tasks like Flickr30k, MSCOCO, and WinoGAViL
 
-![Demo Image](Images/Retrievals.png)
+![Demo Image](Images/Retrieval.png)
 
 
