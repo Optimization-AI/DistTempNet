@@ -192,14 +192,14 @@ python evaluate.py \
 
 #### Datacomp: Measuring the average zero-shot performance across 38 diverse downstream tasks 
 
-![Demo Image](Images/Datacomp.png) <br />
+![Demo Image](Images/datacomp-v1.png) <br />
 
 #### ImageNet Variants: Measuring robustness using ImageNet-1k and six of its distribution-shifted variants 
 
-![Demo Image](Images/ImageNet.png) <br />
+![Demo Image](Images/IN-v1.png) <br />
 
 #### Retrievals: Measuring the model's ability to perform image-text retrieval tasks like Flickr30k, MSCOCO, and WinoGAViL
 
-![Demo Image](Images/Retrieval.png)
+![Demo Image](Images/ret-v1.png)
 
 
