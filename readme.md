@@ -192,7 +192,7 @@ python evaluate.py \
 
 #### Datacomp: Measuring the average zero-shot performance across 38 diverse downstream tasks 
 
-![Demo Image](Images/datacomp-v1.png) <br />
+![Demo Image](Images/Datacomp-v1.png) <br />
 
 #### ImageNet Variants: Measuring robustness using ImageNet-1k and six of its distribution-shifted variants 
 
